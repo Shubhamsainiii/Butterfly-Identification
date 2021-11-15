@@ -1,4 +1,4 @@
-# flutter_butterfly
+# Butterfly-Detection
 
 A new Flutter application.
 
